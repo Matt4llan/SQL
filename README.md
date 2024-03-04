@@ -2,8 +2,9 @@
 
 ## Objective
 
-You are a security professional at a large organization. Part of your job is to investigate security issues to help keep the system secure. You recently discovered some potential security issues that involve login attempts and employee machines.
-Your task is to examine the organization’s data in their 'employees' and 'log_in_attempts' tables. You’ll need to use SQL filters to retrieve records from different datasets and investigate the potential security issues.
+In this scenario, you need to obtain specific information about employees, their machines, and the departments they belong to from the database.
+Your team needs data to investigate potential security issues and to update computers.
+You are responsible for filtering the required information from the database.
 
 ### Skills Learned
 
