@@ -8,9 +8,8 @@ You are responsible for filtering the required information from the database.
 
 ### Skills Learned
 
-- Advanced understanding of using queries in SQL.
-- Proficiency searching SQL database tables.
-- Advanced understanding of using filters for multiple conditions
+- Run SQL queries to retrieve information from a database
+- Advanced understanding of how to apply AND, OR, and NOT operators to filter SQL queries
 
 ### Tools Used
 
